@@ -1,0 +1,14 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "shopping app using electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sujitkumar",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
